@@ -133,9 +133,7 @@
 
 [Imgur](https://i.imgur.com/4bMXwih.jpg)
 
-
-
-		## **2 - Conception détaillée du projet**
+## **2 - Conception détaillée du projet**
 
 ### 2.1 MCD - Modèle conceptuel de données
 
