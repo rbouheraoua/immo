@@ -127,11 +127,11 @@
 
 ## **1.2 Logo**
 
-![](/home/rachid/Documents/AFPA/IMMO/Logos/logo.JPG) 
+[Imgur](https://i.imgur.com/5Yb1hiY.jpg)
 
 ## **1.3 planning de l'équipe du groupe 4**	
 
-![](/home/rachid/Documents/AFPA/IMMO/Capture d’écran 2021-12-17 à 14.59.11.jpg)
+[Imgur](https://i.imgur.com/4bMXwih.jpg)
 
 
 
@@ -139,15 +139,17 @@
 
 ### 2.1 MCD - Modèle conceptuel de données
 
-![](/home/rachid/Documents/AFPA/IMMO/MCD-IMMO.jpg)
+[Imgur](https://i.imgur.com/A8mY2Ui.jpg))
 
 ### 2.2 MLD - Modèle logique de données
 
-![](/home/rachid/Téléchargements/MLD-IMMO.jpg)
+[Imgur](https://i.imgur.com/y9Gb64P.jpg)
 
 ## **3 - Développement du projet**
 
 ### 3.1 Maquette Front & Back
+#### 3.1.1 USE-CASE
+[Imgur](https://i.imgur.com/v6hX3wO.jpg)
 
 
 
