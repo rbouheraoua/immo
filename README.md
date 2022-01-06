@@ -24,7 +24,7 @@
 
 2 - Conception détaillée du projet
 
-2. 1 MCD - Modèle conceptuel de données
+2. 1 MCD - Modèle conceptuel de données[Imgur](https://i.imgur.com/v6hX3wO.jpg)
 
 2. 2 MLD - Modèle logique de données 
 
@@ -75,7 +75,7 @@
 
 - Besoins non fonctionnels
 
-  - Interface utilisateur :
+  - Interface utilisateur :[Imgur](https://i.imgur.com/v6hX3wO.jpg)
     Un fichier d’aide à l’utilisateur présentant l’interface et les fonctionnalités sera disponible.
     Configuration requise par l’application :
     - La configuration minimale adoptée est celle du Intel(R1.4.4 ) Core(TM) i5-8400 CPU @ 2.80GHz - 2.81 GHz avec 16,0 Go (15,8 Go utilisable) RAM. La résolution d’affichage minimale sera de 1200x800 en 256 couleurs
